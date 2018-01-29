@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Shawn T. Brown, PhD"
-  avatar           : "/assets/images/Brown_headshot.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Brown_headshot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
   email            :
